@@ -1,0 +1,95 @@
+.future{
+background-color: #0404EA;
+}
+.future h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 124.02%;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    margin-top: 140px;
+}
+.future strong{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 124.02%;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    margin-top: 140px;
+    background: linear-gradient(
+            to right, #f32170, #ff6b08,
+             #cf23cf, #eedd44);
+             -webkit-text-fill-color: transparent;
+             -webkit-background-clip: text;
+        
+}
+.future p{
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 124.02%;
+color: #FFFFFF;
+}
+.Future_Visit_btn{
+    width: 120px;
+    height: 40px;
+    color:white;
+    background-color: #0404EA;
+    border: 1px solid #ffff00;
+}
+.Future_Register_btn{
+    margin-left: 10px;
+}
+.future_img{
+    width: 550px;
+    height:550px;
+    margin: 70px;
+}
+.leverage{
+    background-color:#030361;
+}
+.flexibility{
+    background-color: #18189C;
+}
+.icons_img{
+    margin: 50px;
+    width: 250px;
+}
+.leverage h2{
+    font-family: 'Baloo 2';
+    margin-top: 100px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 124.02%;
+    color: #FFFFFF;
+    
+}
+.leverage p{
+    font-family: 'Ballo 2';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 124.02%;
+    color: #FFFFFF;
+    padding-right: 210px;
+
+}
+.flexibility h2{
+    font-family: 'Baloo 2';
+    margin-top: 100px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 124.02%;
+    color: #FFFFFF;
+}
+.flexibility p{
+    font-family: 'Ballo 2';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 124.02%;
+    color: #FFFFFF;
+    padding-right: 210px;
+}
